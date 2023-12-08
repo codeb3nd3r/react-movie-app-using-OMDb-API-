@@ -1,8 +1,9 @@
+# Getting Started with Our Create React App
+
 Creating a react App (###`ONLY FOR LEARING PURPOSE`)
 Using OMDb API for fetching movie data 
 Displaying dynamic movies on static react components.
 
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
