@@ -1,6 +1,6 @@
 # Getting Started with Our Create React App
 
-Creating a react App (###`ONLY FOR LEARING PURPOSE`)
+Creating a react App (`ONLY FOR LEARING PURPOSE`)
 Using OMDb API for fetching movie data 
 Displaying dynamic movies on static react components.
 
